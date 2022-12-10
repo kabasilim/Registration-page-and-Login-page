@@ -2,14 +2,14 @@ h1{
     color: blue;
 }
 table{
-    border:1px solid rgb(100,200,50);
+    border:2px solid rgb(100,200,50);
 	width:50%;
 	color:red;
 }
 
 body {
 	
-	background-color:lightblue;
+	background-color:SKYBLUE;
 }
 
 td   {
